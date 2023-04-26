@@ -1,0 +1,11 @@
+html, body{
+   background-color: rgb(182, 235, 236);
+}
+
+.header1{
+   text-align: center;
+   margin-top: 50px;
+   font-size: 50px;
+   font-weight: 500;
+   font-family: 'Times New Roman', Times, serif;
+}

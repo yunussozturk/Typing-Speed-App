@@ -1,0 +1,36 @@
+.registeredWord1{
+    width: 60%;
+    height: 110px;
+    background-color: white;
+    font-size: large;
+    padding: 8px;
+    margin: 40px auto 0 auto;
+    border: 1px solid blue;
+    border-radius: 5px;
+    font-size: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll
+}
+
+.registeredWord1::-webkit-scrollbar {
+    display: none;
+}
+
+.registeredWord2{
+    margin-right: 10px;
+    margin-bottom: 5px;  
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.grey{
+    background-color: rgb(207, 202, 202);
+}
